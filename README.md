@@ -47,10 +47,6 @@ Feel free to mail me at [zaytsevdi@gmail.com](mailto:zaytsevdi@gmail.com)
 My website (this repo): [miskamyasa.me](https://miskamyasa.me/)   
 My LinkedIn: [linkedin.com/in/miskamyasa](https://www.linkedin.com/in/miskamyasa/)   
 
-## Contributing
-
-Contributions are always welcome!
-
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
